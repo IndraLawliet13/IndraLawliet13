@@ -75,6 +75,8 @@ so it renders more consistently on the GitHub profile page.
 - [`APITubes2`](https://github.com/IndraLawliet13/APITubes2)
 - [`TVOnline`](https://github.com/IndraLawliet13/TVOnline)
 - [`cryptocandyfarm-automation`](https://github.com/IndraLawliet13/cryptocandyfarm-automation)
+- [`turnstile-solver-api`](https://github.com/IndraLawliet13/turnstile-solver-api) - Public-safe Turnstile solver API showcase built from a production-oriented local deployment.
+
 - [`fruitfarm`](https://github.com/IndraLawliet13/fruitfarm)
 - [`rollercoin`](https://github.com/IndraLawliet13/rollercoin)
 - [`autofaucet`](https://github.com/IndraLawliet13/autofaucet)
