@@ -28,6 +28,7 @@ I recently converted several private working projects into cleaner public showca
 - `givvy`
 - `autofaucet`
 - `cryptowrs`
+- `cryptocandyfarm-automation`
 
 ## Main stack
 
