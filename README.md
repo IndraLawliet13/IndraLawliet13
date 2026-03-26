@@ -1,4 +1,4 @@
-<!-- profile-refresh: 2026-03-27T01:01:00+07:00 -->
+<!-- profile-refresh: 2026-03-27T01:12:00+07:00 -->
 
 <h1 align="center">Indra Yuda</h1>
 <p align="center">
@@ -14,9 +14,8 @@
 </p>
 
 <p align="center">
-  I build practical software around backend systems, automation workflows, and utility-driven tools.
-  My public work is centered on Python automation, JavaScript backend development, API design,
-  and lightweight tooling that solves real operational problems.
+  I build practical software around backend systems, automation workflows, API integration,
+  and utility-driven developer tools.
 </p>
 
 ## About
@@ -24,8 +23,8 @@
 - GitHub: **IndraLawliet13**
 - Name: **Indra Yuda**
 - Main focus: **backend APIs, automation workflows, and developer tooling**
-- Comfortable with: **Python, JavaScript/TypeScript, API integration, web automation, CLI utilities**
-- Current showcase direction: **clean, public-safe repos with practical implementation value**
+- Comfortable with: **Python, JavaScript/TypeScript, API integration, web automation, and CLI utilities**
+- Showcase direction: **clean, public-safe repositories with practical implementation value**
 
 ## What I Work On
 
@@ -37,41 +36,14 @@
 
 ## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/IndraLawliet13/codex-slot-relay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IndraLawliet13&repo=codex-slot-relay&theme=transparent" alt="codex-slot-relay" />
-  </a>
-  <a href="https://github.com/IndraLawliet13/codex-utils">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IndraLawliet13&repo=codex-utils&theme=transparent" alt="codex-utils" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/IndraLawliet13/cryptoPredict">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IndraLawliet13&repo=cryptoPredict&theme=transparent" alt="cryptoPredict" />
-  </a>
-  <a href="https://github.com/IndraLawliet13/APITubes2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IndraLawliet13&repo=APITubes2&theme=transparent" alt="APITubes2" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/IndraLawliet13/TVOnline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IndraLawliet13&repo=TVOnline&theme=transparent" alt="TVOnline" />
-  </a>
-  <a href="https://github.com/IndraLawliet13/cryptocandyfarm-automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IndraLawliet13&repo=cryptocandyfarm-automation&theme=transparent" alt="cryptocandyfarm-automation" />
-  </a>
-</p>
-
-## Project Highlights
-
-- **codex-slot-relay**: stateless OpenAI-compatible Codex relay with slot-aware routing and local slot management
-- **codex-utils**: lightweight Python helpers for OpenAI-compatible Codex relay endpoints, chat flows, responses, and streaming
-- **cryptoPredict**: BTCUSDT trading research workflow with data collection, model training, signal checks, and alerting helpers
-- **APITubes2**: Express-based backend API showcase prepared as a clean public project
-- **TVOnline**: Next.js IPTV web app with filtering and browser-based streaming
-- **cryptocandyfarm-automation**: public-safe Python automation showcase for the CryptoCandyFarm Telegram mini app
+| Project | Summary |
+| --- | --- |
+| [`codex-slot-relay`](https://github.com/IndraLawliet13/codex-slot-relay) | Stateless OpenAI-compatible Codex relay with slot-aware routing and local slot management. |
+| [`codex-utils`](https://github.com/IndraLawliet13/codex-utils) | Lightweight Python helpers for OpenAI-compatible Codex relay endpoints, chat flows, responses, and streaming. |
+| [`cryptoPredict`](https://github.com/IndraLawliet13/cryptoPredict) | Python-based BTCUSDT trading research workflow with data collection, model training, signal checks, and alerts. |
+| [`APITubes2`](https://github.com/IndraLawliet13/APITubes2) | Express-based backend API showcase prepared as a clean public project. |
+| [`TVOnline`](https://github.com/IndraLawliet13/TVOnline) | Next.js IPTV web app with filtering and browser-based streaming. |
+| [`cryptocandyfarm-automation`](https://github.com/IndraLawliet13/cryptocandyfarm-automation) | Public-safe Python automation showcase for the CryptoCandyFarm Telegram mini app. |
 
 ## Tech Stack
 
@@ -92,10 +64,8 @@
 
 ## GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IndraLawliet13&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraLawliet13&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
+The profile now uses GitHub-native markdown and stable shields instead of external stat-card widgets,
+so it renders more consistently on the GitHub profile page.
 
 ## Selected Public Repositories
 
