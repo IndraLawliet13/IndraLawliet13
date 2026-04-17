@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/IndraLawliet13?tab=followers">
-    <img src="https://img.shields.io/github/followers/IndraLawliet13?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  <a href="https://github.com/IndraYuda13?tab=followers">
+    <img src="https://img.shields.io/github/followers/IndraYuda13?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Automation-111827?style=for-the-badge" alt="Focus badge" />
   <img src="https://img.shields.io/badge/Building-Practical%20Developer%20Tools-1f6feb?style=for-the-badge" alt="Building badge" />
@@ -38,12 +38,12 @@
 
 | Project | Summary |
 | --- | --- |
-| [`codex-slot-relay`](https://github.com/IndraLawliet13/codex-slot-relay) | Stateless OpenAI-compatible Codex relay with slot-aware routing and local slot management. |
-| [`codex-utils`](https://github.com/IndraLawliet13/codex-utils) | Lightweight Python helpers for OpenAI-compatible Codex relay endpoints, chat flows, responses, and streaming. |
-| [`cryptoPredict`](https://github.com/IndraLawliet13/cryptoPredict) | Python-based BTCUSDT trading research workflow with data collection, model training, signal checks, and alerts. |
-| [`APITubes2`](https://github.com/IndraLawliet13/APITubes2) | Express-based backend API showcase prepared as a clean public project. |
-| [`TVOnline`](https://github.com/IndraLawliet13/TVOnline) | Next.js IPTV web app with filtering and browser-based streaming. |
-| [`cryptocandyfarm-automation`](https://github.com/IndraLawliet13/cryptocandyfarm-automation) | Public-safe Python automation showcase for the CryptoCandyFarm Telegram mini app. |
+| [`codex-slot-relay`](https://github.com/IndraYuda13/codex-slot-relay) | Stateless OpenAI-compatible Codex relay with slot-aware routing and local slot management. |
+| [`codex-utils`](https://github.com/IndraYuda13/codex-utils) | Lightweight Python helpers for OpenAI-compatible Codex relay endpoints, chat flows, responses, and streaming. |
+| [`cryptoPredict`](https://github.com/IndraYuda13/cryptoPredict) | Python-based BTCUSDT trading research workflow with data collection, model training, signal checks, and alerts. |
+| [`APITubes2`](https://github.com/IndraYuda13/APITubes2) | Express-based backend API showcase prepared as a clean public project. |
+| [`TVOnline`](https://github.com/IndraYuda13/TVOnline) | Next.js IPTV web app with filtering and browser-based streaming. |
+| [`cryptocandyfarm-automation`](https://github.com/IndraYuda13/cryptocandyfarm-automation) | Public-safe Python automation showcase for the CryptoCandyFarm Telegram mini app. |
 
 ## Tech Stack
 
@@ -69,18 +69,18 @@ so it renders more consistently on the GitHub profile page.
 
 ## Selected Public Repositories
 
-- [`codex-slot-relay`](https://github.com/IndraLawliet13/codex-slot-relay)
-- [`codex-utils`](https://github.com/IndraLawliet13/codex-utils)
-- [`cryptoPredict`](https://github.com/IndraLawliet13/cryptoPredict)
-- [`APITubes2`](https://github.com/IndraLawliet13/APITubes2)
-- [`TVOnline`](https://github.com/IndraLawliet13/TVOnline)
-- [`cryptocandyfarm-automation`](https://github.com/IndraLawliet13/cryptocandyfarm-automation)
-- [`turnstile-solver-api`](https://github.com/IndraLawliet13/turnstile-solver-api) - Public-safe Turnstile solver API showcase built from a production-oriented local deployment.
+- [`codex-slot-relay`](https://github.com/IndraYuda13/codex-slot-relay)
+- [`codex-utils`](https://github.com/IndraYuda13/codex-utils)
+- [`cryptoPredict`](https://github.com/IndraYuda13/cryptoPredict)
+- [`APITubes2`](https://github.com/IndraYuda13/APITubes2)
+- [`TVOnline`](https://github.com/IndraYuda13/TVOnline)
+- [`cryptocandyfarm-automation`](https://github.com/IndraYuda13/cryptocandyfarm-automation)
+- [`turnstile-solver-api`](https://github.com/IndraYuda13/turnstile-solver-api) - Public-safe Turnstile solver API showcase built from a production-oriented local deployment.
 
-- [`fruitfarm`](https://github.com/IndraLawliet13/fruitfarm)
-- [`rollercoin`](https://github.com/IndraLawliet13/rollercoin)
-- [`autofaucet`](https://github.com/IndraLawliet13/autofaucet)
-- [`givvy`](https://github.com/IndraLawliet13/givvy)
+- [`fruitfarm`](https://github.com/IndraYuda13/fruitfarm)
+- [`rollercoin`](https://github.com/IndraYuda13/rollercoin)
+- [`autofaucet`](https://github.com/IndraYuda13/autofaucet)
+- [`givvy`](https://github.com/IndraYuda13/givvy)
 
 <p align="center">
   Clean code, practical automation, and useful tools over unnecessary noise.
